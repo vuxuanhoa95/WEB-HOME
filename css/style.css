@@ -5544,13 +5544,13 @@ ul {
 /************** confirmation part css **********************/
 /* line 3, ../../01 cl html template/03_jun 2019/188_Aranoz shop_html/sass/_confirmation_part.scss */
 .confirmation_part .confirmation_tittle {
-  text-align: center;
-  margin-bottom: 35px;
+    text-align: center;
+    margin-bottom: 35px;
 }
 
 /* line 6, ../../01 cl html template/03_jun 2019/188_Aranoz shop_html/sass/_confirmation_part.scss */
 .confirmation_part .confirmation_tittle span {
-    color: #ff3368;
+    color: #FFFFFF;
     padding-top: 0px;
 }
 
